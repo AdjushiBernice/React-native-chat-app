@@ -116,16 +116,16 @@ button {
   width: 172px;
 }
 
-.getlinked.text-wrapper {
+.getlinked .text-wrapper {
   color: #ffffff;
   font-family: "Montserrat", Helvetica;
   font-size: 16px;
   font-weight: 400;
-  left: 0;
+  left: 52px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 0;
+  top: 16px;
 }
 
 .overlap-wrapper {
@@ -428,7 +428,7 @@ button {
   font-family: "Montserrat", Helvetica;
   font-size: 14px;
   font-weight: 400;
-  left: 63px;
+  left: 73px;
   letter-spacing: 0;
   line-height: 18.6px;
   position: absolute;
@@ -441,7 +441,7 @@ button {
   font-family: "Montserrat", Helvetica;
   font-size: 14px;
   font-weight: 400;
-  left: 173px;
+  left: 183px;
   letter-spacing: 0;
   line-height: 18.6px;
   position: absolute;
@@ -454,7 +454,7 @@ button {
   font-family: "Montserrat", Helvetica;
   font-size: 14px;
   font-weight: 400;
-  left: 282px;
+  left: 315px;
   letter-spacing: 0;
   line-height: 18.6px;
   position: absolute;

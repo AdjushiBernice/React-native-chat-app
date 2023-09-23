@@ -32,7 +32,6 @@ const Register = () => {
     fetch(`${baseUrl}/hackathon/categories-list`)
       .then((response) => response.json())
       .then((data) => {
-        // Set the category data in state
         setCategoryData(data);
       })
       .catch((error) => {
@@ -43,7 +42,6 @@ const Register = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log("Submit btn clicked");
-    // Perform POST request with otherFields data
     fetch(`${baseUrl}/hackathon/registration`, {
       method: "POST",
       body: JSON.stringify(otherFields),
@@ -53,11 +51,9 @@ const Register = () => {
     })
       .then((response) => {
         console.log(response);
-        // Redirect to a success page or perform any other action
         response.ok && router.push("/Success");
       })
       .then((data) => {
-        // Handle the response data as needed
         console.log("Response from POST API:", data);
       })
       .catch((error) => {
