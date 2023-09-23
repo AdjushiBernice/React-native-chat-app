@@ -2963,7 +2963,472 @@
   top: 557px;
   width: 560px;
 }
+.box {
+  height: 664px;
+  width: 699px;
+}
 
+.box .confirmation {
+  height: 664px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 703px;
+}
+
+.box .overLappy {
+  border-radius: 5px;
+  height: 664px;
+  position: relative;
+  width: 699px;
+}
+
+.box .congratulation {
+  height: 321px;
+  left: 136px;
+  position: absolute;
+  top: 34px;
+  width: 427px;
+}
+
+.box .overlapGroup {
+  height: 321px;
+  position: relative;
+}
+
+.box .successfully-done {
+  height: 288px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 288px;
+}
+
+.box .successful-man {
+  height: 305px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 305px;
+}
+
+.box .flexcontainer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  height: 87px;
+  left: 65px;
+  position: absolute;
+  top: 355px;
+  width: 553px;
+}
+
+.box .texts {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.box .textWrapper {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.box .divs {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  height: 43px;
+  left: 221px;
+  position: absolute;
+  top: 457px;
+  width: 240px;
+}
+
+.box .spanWrapper {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.box .spanning {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.box .registerButton {
+  all: unset;
+  box-sizing: border-box;
+  height: 53px;
+  left: 54px;
+  position: absolute;
+  top: 538px;
+  width: 576px;
+}
+
+.box .divWrapper {
+  background: linear-gradient(
+    180deg,
+    rgb(144, 58, 255) 0%,
+    rgb(212, 52, 254) 56.42%,
+    rgb(255, 37.9, 184.51) 99.99%,
+    rgb(254, 52, 185.32) 100%
+  );
+  border-radius: 4px;
+  height: 53px;
+  position: relative;
+  width: 574px;
+}
+
+.box .textWrapper2 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 267px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+}
+
+.box .partnerAndSponsors {
+  background-color: #ffffff03;
+  border: 1px solid;
+  border-color: #d434fe;
+  border-radius: 5px;
+  height: 664px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 699px;
+}
+
+.box .element-emoji {
+  height: 20px;
+  left: 465px;
+  object-fit: cover;
+  position: absolute;
+  top: 483px;
+  width: 20px;
+}
+
+.contact-page {
+  background-color: #150e28;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.contact-page .over-lap-wrapper {
+  background-color: #150e28;
+  height: 982px;
+  width: 1512px;
+}
+
+.contact-page .over-lap {
+  height: 982px;
+  position: relative;
+}
+.contact-page .over-lap-group {
+  height: 982px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+.contact-page .contact-information {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 367px;
+}
+
+.contact-page .element-alara-street-yaba {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 424px;
+}
+
+.contact-page .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 505px;
+}
+
+.contact-page .we-are-open-from {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 547px;
+}
+
+.contact-page .text-wrapper-7 {
+  color: #d434fe;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 190px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 622px;
+}
+
+.contact-page .text-wrapper-8 {
+  color: #d434fe;
+  font-family: "Clash Display-Semibold", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 188px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 311px;
+}
+
+.contact-page .contact-bar {
+  height: 611px;
+  left: 687px;
+  position: absolute;
+  top: 256px;
+  width: 623px;
+}
+
+.contact-page .overlap-2 {
+  background-color: #ffffff08;
+  border-radius: 12px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 611px;
+  position: relative;
+  width: 617px;
+}
+
+.contact-page .overlap-3 {
+  background-color: #ffffff08;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 47px;
+  left: 90px;
+  position: absolute;
+  top: 166px;
+  width: 437px;
+}
+
+.contact-page .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+}
+
+.contact-page .overlap-4 {
+  background-color: #ffffff08;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 47px;
+  left: 90px;
+  position: absolute;
+  top: 255px;
+  width: 437px;
+}
+
+.contact-page .overlap-5 {
+  background-color: #ffffff08;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 119px;
+  left: 90px;
+  position: absolute;
+  top: 341px;
+  width: 437px;
+}
+
+.contact-page .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+}
+
+.contact-page .do-you-have {
+  height: 57px;
+  left: 92px;
+  position: absolute;
+  top: 75px;
+  width: 305px;
+}
+
+.contact-page .text-wrapper-11 {
+  color: #d434fe;
+  font-family: "Clash Display-Semibold", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.contact-page .let-us-know-about-it {
+  color: #d434fe;
+  font-family: "Clash Display-Semibold", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+}
+
+.contact-page .overlap-group-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  height: 53px;
+  left: 223px;
+  position: absolute;
+  top: 491px;
+  width: 174px;
+}
+
+.contact-page .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+  width: 59px;
+}
+
+.contact-page .social-media {
+  height: 24px;
+  left: 190px;
+  position: absolute;
+  top: 657px;
+  width: 129px;
+}
+
+.contact-page .sata-gra {
+  height: 25px;
+  left: 205px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 21px;
+}
+
+.contact-page .star-pu {
+  height: 36px;
+  left: 673px;
+  object-fit: cover;
+  position: absolute;
+  top: 698px;
+  width: 30px;
+}
+
+.contact-page .star-outlin {
+  height: 28px;
+  left: 121px;
+  object-fit: cover;
+  position: absolute;
+  top: 376px;
+  width: 23px;
+}
+
+.contact-page .star-outlin-2 {
+  height: 28px;
+  left: 582px;
+  object-fit: cover;
+  position: absolute;
+  top: 410px;
+  width: 23px;
+}
+
+.contact-page .star {
+  height: 32px;
+  left: 1358px;
+  object-fit: cover;
+  position: absolute;
+  top: 835px;
+  width: 26px;
+}
+
+.contact-page .star-2 {
+  height: 32px;
+  left: 1251px;
+  object-fit: cover;
+  position: absolute;
+  top: 167px;
+  width: 26px;
+}
 
 @media (prefers-color-scheme: dark) {
   :root {
