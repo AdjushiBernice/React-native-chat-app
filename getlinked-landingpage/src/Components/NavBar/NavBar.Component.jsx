@@ -23,9 +23,7 @@ const NavBar = () => {
         Contact
       </Link>
       <Link href="/register" className="overlap-group-wrapper2">
-        <div className="div-wrapper">
-          <button className="text-wrapper">Register</button>
-        </div>
+        <button className="div-wrapper">Register</button>
       </Link>
     </div>
   );
