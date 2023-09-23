@@ -11,7 +11,7 @@ import Introduction from "../Components/Introduction/Introduction";
 import Rules from "../Components/Rules/Rules";
 import Criteria from "../Components/Criteria/Criteria";
 import  AskedQuestions  from "../Components/AskedQuestions/AskedQuestions";
-import Timeline from "../Components/Timeline/Timeline";
+import Timeline from "../Components/Timeline/timeline";
 import Prize  from "../Components/Prize/Prize";
 import Partners from "../Components/Partners/Partners";
 import Policy from "../Components/Policy/Policy";
